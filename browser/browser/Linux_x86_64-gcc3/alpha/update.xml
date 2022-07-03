@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<updates>
+  <update type="minor" displayVersion="1.0.0-a.8" appVersion="1.0.0-a.8" platformVersion="102.0" buildID="20220703062104">
+    <patch type="complete" URL="https://github.com/pulse-browser/browser/releases/download/1.0.0-a.8/linux.mar" hashFunction="sha512" hashValue="0f743c34540f3e875c5556217f41491c9a919b37ce062d3162f4fecd165e7a3b7ea92d181df9b9f3cf8c420a10c97292179e1509da496679e18e0c5147e2c1b2" size="64260288"/>
+  </update>
+</updates>

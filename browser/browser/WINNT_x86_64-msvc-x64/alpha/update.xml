@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<updates>
+  <update type="minor" displayVersion="1.0.0-a.8" appVersion="1.0.0-a.8" platformVersion="102.0" buildID="20220702233846">
+    <patch type="complete" URL="https://github.com/pulse-browser/browser/releases/download/1.0.0-a.8/windows.mar" hashFunction="sha512" hashValue="fa9debf39798b32db9cf5797c98d3bcf4722822baed91fa6ef9314a79c6fb64b5ef108f7c13f9f542fd3ca43cbe9321e852403858ef9e42dacb9265a1e354838" size="64207919"/>
+  </update>
+</updates>
