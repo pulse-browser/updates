@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <updates>
   <addons>
-    <addon id="uBlock0@raymondhill.net" URL="https://github.com/gorhill/uBlock/releases/download/1.44.0/uBlock0_1.44.0.firefox.signed.xpi" hashFunction="sha256" hashValue="ae761fe4014e328fdef838b81d43c30c84422cb8140cceedf0ed7a7c1f8e70aa" size="3060026" version="1.44.0"/>
+    <addon id="uBlock0@raymondhill.net" URL="https://github.com/gorhill/uBlock/releases/download/1.44.4/uBlock0_1.44.4.firefox.xpi" hashFunction="sha256" hashValue="c6c26b519b4986843266bfb749284342420fc2ee7f6f7a65581f8795ad35ac18" size="3037759" version="1.44.4"/>
     <addon id="extension@tabliss.io" URL="https://addons.mozilla.org/firefox/downloads/file/3940751/tabliss-2.6.0.xpi" hashFunction="sha256" hashValue="de766810f234b1c13ffdb7047ae6cbf06ed79c3d08b51a07e4766fadff089c0f" size="216749" version="2.6.0"/>
     <addon id="fire-picker@browser.fushra.com" URL="https://github.com/pulse-browser/fire-picker/releases/download/v1.1.2/release.zip" hashFunction="sha256" hashValue="f6ea445693dfe960da20ff47eab1c5ba123947000c869fc3e53b43941fa82d56" size="40717" version="v1.1.2"/>
   </addons>
