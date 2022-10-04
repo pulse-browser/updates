@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<updates>
+  <update type="minor" displayVersion="1.0.0-a.28" appVersion="1.0.0-a.28" platformVersion="105.0.1" buildID="20221004020052">
+    <patch type="complete" URL="https://github.com/pulse-browser/browser/releases/download/1.0.0-a.28/macosIntel.mar" hashFunction="sha512" hashValue="2f3bbe5d6f6baec3a042d8d7f08ecad2a85d628ea1c76c4f53db20ddc7b5c9ebb872e03610dc6929352a5d5e8e275661edd940172f50f5c282449425f22d64e1" size="61784275"/>
+  </update>
+</updates>
