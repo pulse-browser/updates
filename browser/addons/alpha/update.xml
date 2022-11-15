@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <updates>
   <addons>
-    <addon id="uBlock0@raymondhill.net" URL="https://github.com/gorhill/uBlock/releases/download/1.44.4/uBlock0_1.44.4.firefox.xpi" hashFunction="sha256" hashValue="c6c26b519b4986843266bfb749284342420fc2ee7f6f7a65581f8795ad35ac18" size="3037759" version="1.44.4"/>
+    <addon id="uBlock0@raymondhill.net" URL="https://github.com/gorhill/uBlock/releases/download/1.44.4/uBlock0_1.44.4.firefox.signed.xpi" hashFunction="sha256" hashValue="0be550c9a27c040d04ad71954dd9e9a4967a27d48ffa2cdfe91171752e152685" size="3060441" version="1.44.4"/>
     <addon id="extension@tabliss.io" URL="https://addons.mozilla.org/firefox/downloads/file/3940751/tabliss-2.6.0.xpi" hashFunction="sha256" hashValue="de766810f234b1c13ffdb7047ae6cbf06ed79c3d08b51a07e4766fadff089c0f" size="216749" version="2.6.0"/>
-    <addon id="fire-picker@browser.fushra.com" URL="https://github.com/pulse-browser/fire-picker/releases/download/v1.1.2/release.zip" hashFunction="sha256" hashValue="f6ea445693dfe960da20ff47eab1c5ba123947000c869fc3e53b43941fa82d56" size="40717" version="v1.1.2"/>
+    <addon id="qr-generator@browser.fushra.com" URL="https://github.com/pulse-browser/firefox-qr-generator/releases/download/v0.1.0/release.zip" hashFunction="sha256" hashValue="85de0ec4d87ea96eaec504722415bf55840b204b32a86238a92484c63ec3c5a8" size="10778" version="v0.1.0"/>
     <addon id="sidebartabs@browser.fushra.com" URL="https://github.com/pulse-browser/sidebar-tabs/releases/download/v0.4.0/release.zip" hashFunction="sha256" hashValue="3ddc4505de191267d95558dfbb6ebd670c5d93d6961942fe9b1ba04f09685c72" size="10951" version="v0.4.0"/>
   </addons>
 </updates>
