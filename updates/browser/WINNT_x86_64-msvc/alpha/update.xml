@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="1.0.0-a.61" appVersion="1.0.0-a.61" platformVersion="111.0" buildID="20230323205349">
-    <patch type="complete" URL="https://github.com/pulse-browser/browser/releases/download/1.0.0-a.61/windows.mar" hashFunction="sha512" hashValue="69a3f3efac736afa04e575fbe5a75decd21395a9f00f99f580274993052fc642c4217628c1d69b8e46b4fa80427f9c24204d091bde2c07b628b0051196e43331" size="67189612"/>
+  <update type="minor" displayVersion="1.0.0-a.62" appVersion="1.0.0-a.62" platformVersion="111.0" buildID="20230412200247">
+    <patch type="complete" URL="https://github.com/pulse-browser/browser/releases/download/1.0.0-a.62/windows.mar" hashFunction="sha512" hashValue="d57a78852ad2ae6a5999b1b02f1becfd085aec97156266f5009ba71b0dcb0c5d7d53b7426e4b6e2f6c1126efe82b130ade50909bb903fe6f63a2e3fead69c568" size="67195396"/>
   </update>
 </updates>
