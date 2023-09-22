@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="minor" displayVersion="1.0.0-a.80" appVersion="1.0.0-a.80" platformVersion="117.0.1" buildID="20230917030419">
-    <patch type="complete" URL="https://github.com/pulse-browser/browser/releases/download/1.0.0-a.80/macosIntel.mar" hashFunction="sha512" hashValue="4bf299991afcb2b59a5a9ba36f9a4c5a8c673fb3b50db58c8650ffc09f8a50e894ef03adc99155ac27935e82477700ba5e634e6ee736125085b8dc49630942a0" size="64393579"/>
+  <update type="minor" displayVersion="1.0.0-a.81" appVersion="1.0.0-a.81" platformVersion="117.0.1" buildID="20230921235347">
+    <patch type="complete" URL="https://github.com/pulse-browser/browser/releases/download/1.0.0-a.81/macosIntel.mar" hashFunction="sha512" hashValue="33d0a2384f8e7393e9f93d82e6718f47957e5fc72f7667f66d21796c27541d4fe3fab38cab1168c07e7b08410c87d975950e9383cb9a6790880a887400c33041" size="64408139"/>
   </update>
 </updates>
